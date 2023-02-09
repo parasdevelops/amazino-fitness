@@ -171,6 +171,7 @@ export class Crud extends React.Component {
           Get data from DB
         </button>
         <br />
+        <h1>Do i even need this ?</h1>
         <Table className="container w-75 " bordered striped variant="light">
           <thead>
             <tr>
