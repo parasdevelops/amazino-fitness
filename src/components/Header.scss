@@ -1,0 +1,18 @@
+.header {
+  padding: 1rem 2rem;
+
+  .header-title {
+    letter-spacing: 7px;
+    .big {
+      font-size: 3rem;
+    }
+    .small {
+      font-size: 2rem;
+      text-decoration: overline;
+    }
+    .second-small {
+      font-size: 2rem;
+      text-decoration: underline;
+    }
+  }
+}
